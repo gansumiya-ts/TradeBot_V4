@@ -1,7 +1,1 @@
-diff --git a//dev/null b/.gitignore
-index 0000000000000000000000000000000000000000..7a60b85e148f80966a550e5ab6a762a907c69ca6 100644
---- a//dev/null
-+++ b/.gitignore
-@@ -0,0 +1,2 @@
-+__pycache__/
-+*.pyc
+
